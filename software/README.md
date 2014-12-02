@@ -26,10 +26,10 @@ XPCC is provided as a git submodule, to use it run this in the root `hotbox/` di
 	$ git submodule update
 
 
-###### To install the XPCC build system on OS X (tested on 10.7/10.8):
+###### To install the XPCC build system on OS X (tested on 10.9):
 
 1.	Install [Homebrew][]:  
-	`$ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"`
+	`$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 2.	Install some dependencies:  
 	`$ brew install scons python`  
 	`$ pip install lxml jinja2`
@@ -38,7 +38,7 @@ XPCC is provided as a git submodule, to use it run this in the root `hotbox/` di
 	`$ brew install avr-libc avrdude`
 
 
-###### To install the XPCC build system on Linux (tested on Ubuntu 12.04 LTS):
+###### To install the XPCC build system on Linux (tested on Ubuntu 14.04 LTS):
 
 	$ sudo apt-get update
 	$ sudo apt-get install python scons python-jinja2 python-lxml \
