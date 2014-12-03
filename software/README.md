@@ -4,9 +4,9 @@
 
 The sources are compiled using the [XPCC library][xpcc], which is used for
 GPIO, Communication, Processing, Build System and Serial Debugging.  
-Enter the `box` directory
+Enter the `source` directory
 
-	$ cd /path/to/hotbox/software/box
+	$ cd /path/to/hotbox/software/source
 
 To compile, execute:
 
