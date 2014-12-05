@@ -22,6 +22,6 @@ This repository is organized as follows:
 
 All hardware and embedded software was designed by [Niklas Hauser][hauser] during his [bachelor thesis][bachelor].
 
-[hotbox]: techreport_on_arxiv
+[hotbox]: http://sunsite.informatik.rwth-aachen.de/Publications/AIB/2014/2014-14.pdf
 [hauser]: http://www.salkinium.de
 [bachelor]: https://github.com/salkinium/bachelor
